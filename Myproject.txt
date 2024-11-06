@@ -4,3 +4,6 @@
 11/6　VSCodeでプッシュできない原因を探る
       難しい。command操作は慣れてきた。
       解決：VSCodeでコミット及びプッシュを行うと、上にPassを要求されるため、設定したパスを入力することでプッシュ可能
+      FATEの連合学習を進めるために、ubuntu && ubuntuLTSの両方に仮想環境を作成しました。]
+            ubuntu　   :: \\wsl.localhost\Ubuntu\home\tomoniji2002\git_lab_ubu\project1_ubu　
+            ubuntuLTS　:: \\wsl.localhost\Ubuntu-24.04\home\tamutamudayo\git_lab_deep\project1
